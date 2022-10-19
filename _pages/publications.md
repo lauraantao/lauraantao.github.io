@@ -11,12 +11,12 @@ author_profile: true
 **Antão, L.H.** & Weigel, B., Strona, G., Hällfors, M., Kaarlejärvi, E., Dallas, T., Opedal, Ø., Heliölä, J., Henttonen, H., Huitu, O., Korpimäki, E., Kuussaari, M., Lehikoinen, A., Leinonen, R., Lindén, A., Merilä, P., Pietiäinen, H., Pöyry, J., Salemaa, M., Tonteri, T., Vuorio, K., Ovaskainen, O., Saastamoinen, M., Vanhatalo, J., Roslin, T. & Laine, A-L.. *Nature Climate Change, 12, 587–592*.
 
 
-**[Shifts in fish community composition and structure linked to seasonality in a tropical river**](https://doi.org/10.1111/fwb.13975)
+[**Shifts in fish community composition and structure linked to seasonality in a tropical river**](https://doi.org/10.1111/fwb.13975)
 
 Duarte, C., **Antão, L.H.**, Magurran, A.E., Deus, C.P.. *Freshwater Biology, 67, 1789– 1800*.
 
 
-**[Nationally reported metrics can’t adequately guide transformative change in biodiversity policy**](https://doi.org/10.1073/pnas.2117299119)
+[**Nationally reported metrics can’t adequately guide transformative change in biodiversity policy**](https://doi.org/10.1073/pnas.2117299119)
 
 Fraixedas, S., Roslin, T., **Antão, L.H.**, Pöyry, J., Laine, A-L.. *Proceedings of the National Academy of Sciences, 119, e2117299119*.
 
