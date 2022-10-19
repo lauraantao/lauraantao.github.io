@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 ## **2022**
-[Climate change reshuffles northern species within their niches]([url](https://doi.org/10.1038/s41558-022-01381-x)). Nature Climate Change, 12, 587–592.
-Antão, L.H.*, Weigel, B.*, Strona, G., Hällfors, M., Kaarlejärvi, E., Dallas, T., Opedal, Ø., Heliölä, J., Henttonen, H., Huitu, O., Korpimäki, E., Kuussaari, M., Lehikoinen, A., Leinonen, R., Lindén, A., Merilä, P., Pietiäinen, H., Pöyry, J., Salemaa, M., Tonteri, T., Vuorio, K., Ovaskainen, O., Saastamoinen, M., Vanhatalo, J., Roslin, T. & Laine, A-L.
+**[Climate change reshuffles northern species within their niches]([url](https://doi.org/10.1038/s41558-022-01381-x))**
+Antão, L.H.*, Weigel, B.*, Strona, G., Hällfors, M., Kaarlejärvi, E., Dallas, T., Opedal, Ø., Heliölä, J., Henttonen, H., Huitu, O., Korpimäki, E., Kuussaari, M., Lehikoinen, A., Leinonen, R., Lindén, A., Merilä, P., Pietiäinen, H., Pöyry, J., Salemaa, M., Tonteri, T., Vuorio, K., Ovaskainen, O., Saastamoinen, M., Vanhatalo, J., Roslin, T. & Laine, A-L.. Nature Climate Change, 12, 587–592.
 
-[Shifts in fish community composition and structure linked to seasonality in a tropical river]([url](https://doi.org/10.1111/fwb.13975)). Freshwater Biology, 67, 1789– 1800.
-Duarte, C., Antão, L.H., Magurran, A.E., Deus, C.P.
+**[Shifts in fish community composition and structure linked to seasonality in a tropical river]([url](https://doi.org/10.1111/fwb.13975))**
+Duarte, C., Antão, L.H., Magurran, A.E., Deus, C.P.. Freshwater Biology, 67, 1789– 1800.
 
-[Nationally reported metrics can’t adequately guide transformative change in biodiversity policy]([url](https://doi.org/10.1073/pnas.2117299119)). Proceedings of the National Academy of Sciences, 119, e2117299119.
-Fraixedas, S., Roslin, T., Antão, L.H., Pöyry, J., Laine, A-L.
+**[Nationally reported metrics can’t adequately guide transformative change in biodiversity policy]([url](https://doi.org/10.1073/pnas.2117299119))**
+Fraixedas, S., Roslin, T., Antão, L.H., Pöyry, J., Laine, A-L.. Proceedings of the National Academy of Sciences, 119, e2117299119.
+
 
 Pearce-Higgins, J.W., Antão, L.H., Bates, R.E., Bowgen, K.M., Bradshaw, C.D., Duffield, S.J., Ffoulkes, C., Franco, A.M.A., Geschke, J., Gregory, R.D., Harley, M.J., Hodgson, J.A., Jenkins, R.L.M., Kapos, V., Maltby, K.M., Watts, O., Willis, S.G., Morecroft, M.D. A framework for climate change adaptation indicators for the natural environment. Ecological Indicators, 136, 108690. https://doi.org/10.1016/j.ecolind.2022.108690
 
