@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Laura Antao"
+title                    : "Laura Antão"
 title_separator          : "-"
-name                     : &name "Laura Antao"
+name                     : &name "Laura Antão"
 description              : &description "personal description"
 url                      : https://lauraantao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Laura Antão"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a global change ecologist. My main research interests are biodiversity, macroecology and global change."
+  location         : "Helsinki, Finland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
