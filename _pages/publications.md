@@ -7,7 +7,6 @@ author_profile: true
 
 ## **2022**
 **[Climate change reshuffles northern species within their niches]([url](https://doi.org/10.1038/s41558-022-01381-x))**
-
 Antão, L.H.*, Weigel, B.*, Strona, G., Hällfors, M., Kaarlejärvi, E., Dallas, T., Opedal, Ø., Heliölä, J., Henttonen, H., Huitu, O., Korpimäki, E., Kuussaari, M., Lehikoinen, A., Leinonen, R., Lindén, A., Merilä, P., Pietiäinen, H., Pöyry, J., Salemaa, M., Tonteri, T., Vuorio, K., Ovaskainen, O., Saastamoinen, M., Vanhatalo, J., Roslin, T. & Laine, A-L.. Nature Climate Change, 12, 587–592.
 
 **[Shifts in fish community composition and structure linked to seasonality in a tropical river]([url](https://doi.org/10.1111/fwb.13975))**
