@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-<pre class="tab">* 2017    PhD in Biology and Ecology of Global Change, University of St Andrews
-* 2008    MSc in Marine Ecology, University of Lisbon
-* 2007    BSc in Environmental Marine Biology, University of Lisbon
+* 2017 &nbsp;&nbsp; PhD in Biology and Ecology of Global Change, University of St Andrews
+* 2008 &nbsp;&nbsp; MSc in Marine Ecology, University of Lisbon
+* 2007 &nbsp;&nbsp; BSc in Environmental Marine Biology, University of Lisbon
 
 
 Work experience
