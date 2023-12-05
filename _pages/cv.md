@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* PhD in Biology and Ecology of Global Change, University of St Andrews, 2017
-* MSc in Marine Ecology, University of Lisbon, 2008
-* BSc in Environmental Marine Biology, University of Lisbon, 2007
+* 2017    PhD in Biology and Ecology of Global Change, University of St Andrews
+* 2008    MSc in Marine Ecology, University of Lisbon
+* 2007    BSc in Environmental Marine Biology, University of Lisbon
 
 
 Work experience
 ======
 * 2021-       Postdoctoral Research Fellow
-  * Research Centre for Ecological Change, University of Helsinki
+  Research Centre for Ecological Change, University of Helsinki
 
 * 2018 – 2021	Postdoctoral Researcher
   * Research Centre for Ecological Change, University of Helsinki
