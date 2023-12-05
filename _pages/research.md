@@ -6,19 +6,18 @@ author_profile: true
 ---
 
 
-## **Predicting biodiversity change in the Anthropocene – species and community-level responses to climate change**
-Climate change is causing rapid changes in biodiversity around the world. In order to inform conservation and policy actions, we need to understand how and why
-biodiversity is changing. This is a complex issue, because species have different characteristics and can respond differently – i.e. some species are winners and others
-are losers, and because species together form complex communities. This project will use information on species abundance records that have been collected for several
-decades for birds and moths across Finland. It will use statistical methods to evaluate how fast changes in precipitation and temperature are affecting species
-individual responses, and then how those changes combined affect entire communities. This will allow us to understand which species are most vulnerable to climate
-change, which is fundamental to understand the complex changes in biodiversity that are occurring, and to help make predictions for the future.
+## **Quantifying and predicting biodiversity change in the Anthropocene**
+
+Biodiversity is being rapidly restructured around the world. In order to inform conservation and policy, we need to understand how, why and where biodiversity is changing. This is a complex issue, because species have different traits and can respond differently – i.e. some species are winners and others
+are losers, and because species form complex communities.
+I use long-term abundance records collected for several decades for different taxa to evaluate how and where e.g. birds and moths respond to climate change across large spatial scales. Then I aim to understand how these species individual responses combine to affect the structure and composition of entire communities.
 
 
+On the other hand, biodiversity is itself multidimensional. I aim to assess the effects of global change on patterns of community structure using global synthesis of 
+long-term observations and quantifying change across multiple biodiversity dimensions, and specifically across large-scale spatial and latitudinal gradients.
 
-## **Biodiversity change across space and time**
-Within this topic, I aim to assess the effect of recent climate change on local patterns in community structure across the globe, using global synthesis of 
-long-term observations. I also assess how different biodiversity aspects have changed using long-term data collected along a latitudinal gradient in Finland.
+These lines of research will allow us to understand which species and communities are most vulnerable to global change - and where, which is fundamental to quantify the complex patterns of ongoing biodiversity change, and to enable us to build more accurate predictions under future scenarios of change.
+
 
 
 
