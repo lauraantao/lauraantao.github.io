@@ -60,7 +60,7 @@ Research Grants and Fellowships
 
 Academic Service
 ======
-* 2023       Associate Editor for Global Ecology and Biogeography
+* 2023    Associate Editor for Global Ecology and Biogeography
 
-* ongoing    Peer reviewer for: Global Ecology and Biogeography; Ecography; The American Naturalist; Ecology Letters; Limnology and Oceanography; Ecology; Nature Communications; Journal of Animal Ecology; Insect Conservation and Diversity; Neotropical Biodiversity; Global Change Biology; Biological Reviews; Nature Plants; Scientific Reports
+* Peer reviewer for: Global Ecology and Biogeography; Ecography; The American Naturalist; Ecology Letters; Limnology and Oceanography; Ecology; Nature Communications; Journal of Animal Ecology; Insect Conservation and Diversity; Neotropical Biodiversity; Global Change Biology; Biological Reviews; Nature Plants; Scientific Reports
 
