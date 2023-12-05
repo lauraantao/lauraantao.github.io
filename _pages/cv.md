@@ -18,18 +18,18 @@ Education
 
 Work experience
 ======
-* 2021- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, Research Centre for Ecological Change, University of Helsinki
+* 2021- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Research Fellow, Research Centre for Ecological Change, University of Helsinki
 
 * 2018 – 2021 &nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Researcher, Research Centre for Ecological Change, University of Helsinki
   
-* 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Fellow (7 months), School of Biology, University of St Andrews
+* 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Fellow (7 months), School of Biology, University of St Andrews
 
 
 Teaching
 ======
-* 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lecturer and developer of *Quantitative Methods in Ecology and Evolutionary Biology* (MSc, University of Helsinki)
+* 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lecturer and developer of *Quantitative Methods in Ecology and Evolutionary Biology* (MSc, University of Helsinki)
 
-* 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lecturer for *From individuals to ecosystems* (BSc, University of Helsinki)
+* 2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lecturer for *From individuals to ecosystems* (BSc, University of Helsinki)
 
 * 2018 – 2022 &nbsp;&nbsp;&nbsp;&nbsp; Lecturer and developer of *Current Topics in Ecological Change Research* (MSc, University of Helsinki)
 
@@ -38,7 +38,7 @@ Supervision
 ======
 * 2023 - 2024 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor, MSc student Michail Pipinis (University of Helsinki)
 
-* 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Co-supervisor, internship for MSc student Ruby Fries (University of Helsinki)
+* 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Co-supervisor, internship for MSc student Ruby Fries (University of Helsinki)
 
 * 2022 - 2023 &nbsp;&nbsp;&nbsp;&nbsp; Co-supervisor, MSc student Martti Levo (University of Helsinki)
 
@@ -51,7 +51,7 @@ Research Grants and Fellowships
 
 Academic Service
 ======
-* 2023 &nbsp;&nbsp;&nbsp;&nbsp; Associate Editor for Global Ecology and Biogeography
+Associate Editor for Global Ecology and Biogeography (since 2023)
 
-* Peer reviewer for: Global Ecology and Biogeography; Ecography; The American Naturalist; Ecology Letters; Limnology and Oceanography; Ecology; Nature Communications; Journal of Animal Ecology; Insect Conservation and Diversity; Neotropical Biodiversity; Global Change Biology; Biological Reviews; Nature Plants; Scientific Reports
+Peer reviewer for: Global Ecology and Biogeography; Ecography; The American Naturalist; Ecology Letters; Limnology and Oceanography; Ecology; Nature Communications; Journal of Animal Ecology; Insect Conservation and Diversity; Neotropical Biodiversity; Global Change Biology; Biological Reviews; Nature Plants; Scientific Reports
 
