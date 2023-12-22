@@ -81,14 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Laura Antão"
-  avatar           : "LauraAntao_photo.jpg"
+  avatar           : "LauraAntao_REC1.jpg"
   bio              : "I'm a global change ecologist trying to understand nature's complexity"
   location         : "Helsinki, Finland"
-  employer         :
+  employer         : "University of Helsinki, Finland"
+  email            : "laura.antao@helsinki.fi"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dmI0NWkAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Laura-Antao"
+  orcid            : "https://orcid.org/0000-0001-6612-9366"
+  researchgate     : "https://www.researchgate.net/profile/Laura-Antao"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6612-9366"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
