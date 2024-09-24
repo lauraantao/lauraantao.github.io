@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## **2024**
+
+[**Warming underpins community turnover in temperate freshwater and terrestrial communities**](https://doi.org/10.1038/s41467-024-46282-z) Khaliq, I., Rixen, C., Zellweger, F., Graham, C., Gossner, M.M., McFadden, I.R., **Antão, L.H.**, Broderson, J., Ghosh, S., Pomati, F., Seehausen, O., Roth, T., Sattler, T., Supp, S., Riaz, M., Zimmermann, N., Blake, M., Narwani, A. *Nature Communications, 15, 1921*.
+
 ## **2023**
 
 [**Mixed effects of a national protected area network on terrestrial and freshwater biodiversity**](https://doi.org/10.1038/s41467-023-41073-4) Santangeli, A., Weigel, B., **Antão, L.H.**, Kaarlejärvi, E., Hällfors, M., Lehikoinen, A., Lindén, A., Salemaa, M., Tonteri, T., Merilä, P., Vuorio, K., Ovaskainen, O., Vanhatalo, J., Roslin, T., Saastamoinen, M. *Nature Communications, 14, 5426*.
