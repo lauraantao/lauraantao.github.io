@@ -7,10 +7,7 @@ author_profile: true
 
 The **BioChange Lab** is dedicated to improving our understanding of how biodiversity is changing and to build solutions to alleviate the consequences of those changes for ecosystems and societies.
 
-
-
-![BioChange Lab pic](https://user-images.githubusercontent.com/images/lab_pic.png)
-
+![BioChange Lab pic](images/lab_pic.png)
+<img src="/images/lab_pic.png" class="img-responsive center-block" alt="Hiking near and far"/>
 
 Will be hiring soon!
-
